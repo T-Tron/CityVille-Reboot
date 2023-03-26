@@ -1,4 +1,4 @@
-![CityVille](templates/img/logo.png "CityVille logo")
+![CityVille](cityville-logo.webp "CityVille logo")
 
 > CityVille(Facebook) officially closed April 30th, 2015
 
