@@ -16,11 +16,11 @@ This project is dedicated to preserving this Flash game so that it's not lost to
 :speech_balloon: Check our [Discord group](https://discord.gg/rdpFXhja5Q)
 
 ## External Links
-:beginner: [CityVille Wiki](https://cityville.mobachocolate.net)
+:beginner: [CityVille Wiki](https://forum.mobachocolate.net)
 
 :beginner: [CityVille Wiki (FANDOM)](https://cityville.fandom.com/wiki/CityVille_Wiki)
 
-:clapper: [CityVille Trailer](https://www.youtube.com/watch?v=pAdlyz9miqo)
+:clapper: [CityVille Fan Site](https://cityville.mobachocolate.net)
 
 ## On archives and accessibility to digital heritage
 - [Exemption to PCCPSACT](https://www.federalregister.gov/documents/2018/10/26/2018-23241/exemption-to-prohibition-on-circumvention-of-copyright-protection-systems-for-access-control), exemptions to the provision of the Digital Millennium Copyright Act (“DMCA”). 
